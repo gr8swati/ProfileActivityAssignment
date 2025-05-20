@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">assignment_android</string>
+    <string name="back">Back</string>
+    <string name="profile">Profile</string>
+    <string name="support">support</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="user_name">andaz Kumar</string>
+    <string name="user_name_desription">member since Dec, 2020</string>
+    <string name="get_to_know_your_vehicles_inside_out">get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED garage</string>
+    <string name="credit_score">credit score</string>
+    <string name="refresh_available">• REFRESH AVAILABLE</string>
+    <string name="_757">757</string>
+    <string name="lifetime_cashback">LifeTime cashback</string>
+    <string name="lifetime_cashback_text">lifetime cashback</string>
+    <string name="icon_bank_balance">Icon Bank Balance</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="check">check</string>
+    <string name="your_rewards_amp_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="_0">₹0</string>
+    <string name="right_arrow">Right Arrow</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="transaction_amp_support"><![CDATA[TRANSACTION & SUPPORT]]></string>
+    <string name="all_transactions">all transactions</string>
+    <string name="win_upto_rs_1000">win upto Rs 1000</string>
+    <string name="amount">26,46,583</string>
+    <string name="coins">coins</string>
+    <string name="rupees">₹3</string>
+    <string name="icon">Icon</string>
+    <string name="edit_icon">Edit Icon</string>
+</resources>
